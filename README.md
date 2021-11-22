@@ -7,7 +7,7 @@ TalkingImage 2 is an image sonification software constituted of multiple parts :
 - C++ part to segment the image in regions ( 
 http://www.iro.umontreal.ca/~mignotte/ResearchMaterial/VOIBFM-SourceCode/ProgVOIBFM.tar.gz )
 - C++ part to generate sounds from the abstract content ( https://github.com/ohinitoffa/ImgSonification )
-- Java part which run on Android device and represente the client code. See apk 
+- Java part which run on Android device and represente the client code. See apk file https://github.com/ohinitoffa/ImgSonficiation2/blob/main/TalkingImage2.apk 
 - A server part in PHP which serves the images and sound
 - A dataset of images and sound
 
